@@ -2,5 +2,3 @@
 compiler/result/
 __pycache__/
 compiler/frontend/__pycache__/
-test.py
-data/
